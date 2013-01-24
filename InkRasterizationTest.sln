@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RasterizeInkStrokeTest", "RasterizeInkStrokeTest\RasterizeInkStrokeTest.vcxproj", "{7A3C0887-BE99-4408-9E22-63B8F391CBC3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct2DImaging", "..\..\crossPlatformSemantics\cSharp\ecologylabInteractiveSemantics.WinRT\Direct2DImaging\Direct2DImaging.vcxproj", "{09385DE1-75F2-40DF-8E52-A878724EC5A1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Direct2DImaging", "..\Direct2DImaging\Direct2DImaging.vcxproj", "{09385DE1-75F2-40DF-8E52-A878724EC5A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
